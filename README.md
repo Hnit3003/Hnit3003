@@ -8,21 +8,18 @@
 
 <h4 align="left">Languages:</h4>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="35" height="35"/> </a> </p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="36" height="36"/> </a> </p>
 
-<h4 align="left">Tools:</h4>
-<p><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="./Icons/code.png" alt="git" width="35" height="35"/>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="./Icons/stm32cube.png" alt="git" width="35" height="35"/>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="./Icons/Github.ico" alt="git" width="35" height="35"/>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"
-<img src="./Icons/altium_designer.png" alt="git" width="35" height="35"/>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="./Icons/KiCad.png" alt="git" width="80" height="35"/> </a></p>
+<h4 align="left">Tools:</h4><p>
+<img align='left' width="36" height="36" src="Icons/code.png"/>
+<img align='left' width="36" height="36" src="Icons/stm32cube.png"/>
+<img align='left' width="36" height="36" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+<img align='left' width="36" height="36" src="Icons/Github.ico"/>
+<img align='left' width="36" height="36" src="Icons/altium_designer.png"/>
+<img align='left' width="80" height="36" src="Icons/KiCad.png"/>
+  
+<br>
+<br>
 
-|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hnit3003&show_icons=true&theme=transparent&custom_title=MyStats&rank_icon=github&hide_border=true&icon_color=FFFFFF&title_color=FFFFFF&ring_color=FFFFFF&text_color=1488D8)|<img align="center" width="170" height="170" src="Icons/bku.ico"/><img align="center" width="95" height="95" src="Icons/PIF_Leaf.png"/>|
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hnit3003&show_icons=true&theme=transparent&custom_title=MyStats&rank_icon=github&hide_border=true&icon_color=FFFFFF&title_color=FFFFFF&ring_color=FFFFFF&text_color=1488D8&card_width=500)<br><img src="https://github-readme-activity-graph.vercel.app/graph?username=Hnit3003&bg_color=0e1118&hide_border=true&custom_title=TinhChau's%20Contribution%20Graph&area=true&area_color=1488D8&title_color=1488D8&line=1488D8&point=1488D8&theme=high-contrast" width="600" alt="TinhChauContribution-graph" title="TinhChau's Contribution Graph">|<pre><img align="center" width="175" height="175" src="Icons/bku.ico"/><br>University of Technology</pre> <pre><img align="center" width="120" height="120" src="Icons/PIF_Leaf.png"/>Pay It Forward</pre>|
 |---|---|
