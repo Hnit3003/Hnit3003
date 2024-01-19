@@ -24,5 +24,5 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">&nbsp
 <img src="./Icons/KiCad.png" alt="git" width="80" height="35"/> </a></p>
 
-|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hnit3003&show_icons=true&theme=transparent&custom_title=MyStats&rank_icon=github&hide_border=true&icon_color=030391&title_color=030391&ring_color=030391&text_color=1488D8)|<img align="center" width="150" height="150" src="Icons/bku.ico"/><img align="center" width="90" height="90" src="Icons/PIF_Leaf.png"/>|
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hnit3003&show_icons=true&theme=transparent&custom_title=MyStats&rank_icon=github&hide_border=true&icon_color=FFFFFF&title_color=FFFFFF&ring_color=FFFFFF&text_color=1488D8)|<img align="center" width="170" height="170" src="Icons/bku.ico"/><img align="center" width="95" height="95" src="Icons/PIF_Leaf.png"/>|
 |---|---|
