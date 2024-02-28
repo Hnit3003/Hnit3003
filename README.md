@@ -22,7 +22,7 @@
 <h4 align="left">OS:</h4>
 
 <p><a target="_blank" rel="noreferrer">
-<img src="./Icons/free_rtos.png"        width="60" height="45"/>
+<img src="./Icons/free_rtos.png"        width="100" height="45"/>
 <img src="./Icons/contiki_os.png"       width="130" height="30"/><a></p>
 
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hnit3003&show_icons=true&theme=transparent&custom_title=MyStats&rank_icon=github&hide_border=true&icon_color=FFFFFF&title_color=FFFFFF&ring_color=FFFFFF&text_color=1488D8)|<img align="center" width="170" height="170" src="Icons/bku.ico"/><img align="center" width="95" height="95" src="Icons/PIF_Leaf.png"/>|
